@@ -1,1 +1,1 @@
-Webiste created on bootcamp.
+Website created on bootcamp.
